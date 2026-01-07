@@ -41,6 +41,15 @@ Para rodar este projeto localmente, você precisará de um servidor PHP instalad
     http://localhost/nome-do-seu-arquivo.php
     ```
 
+## 📸 Demonstração da Interface
+
+> ![Demonstração_home_screen](img/home_screen.jpeg)
+> ![Demonstração_binario](img/binary.jpeg)
+> ![Demonstração_hexadecimal](img/hexadecimal.jpeg)
 
 
+
+> A interface utiliza um esquema de cores limpo, com botões de rádio estilizados e caixas de alerta verdes para resultados e vermelhas para erros de preenchimento.
+
+---
 Desenvolvido para fins de estudo sobre lógica de programação e integração Front/Back-end.
